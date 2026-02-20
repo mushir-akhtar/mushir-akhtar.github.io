@@ -1,36 +1,130 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+<style>
+.pub-list { margin-left: 1.2rem; }
+.pub-list li { margin-bottom: 0.8rem; }
+.author-me { font-weight: 700; color: #0b5394; }
+.venue { font-weight: 700; color: #38761d; }
+.note { color: #b10000; font-weight: 600; }
+.small { font-size: 0.95em; }
+</style>
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Journal Publications</h2>
 
-{% include base_path %}
+<ol class="pub-list">
+<li>
+<span class="author-me">Mushir Akhtar</span>, M. Tanveer, and M. Arshad.
+“RoBoSS: A Robust, Bounded, Sparse, and Smooth Loss Function for Supervised Learning.”
+<span class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence</span>,
+47(1):149–160, 2025.
+<span class="small">doi: <a href="https://doi.org/10.1109/TPAMI.2024.3465535">10.1109/TPAMI.2024.3465535</a>.</span>
+<span class="note">(Received Institute Best Research Paper Award, IIT Indore, 2025.)</span>
+</li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<li>
+<span class="author-me">Mushir Akhtar</span>, M. Tanveer, M. Arshad, and Alzheimer’s Disease Neuroimaging Initiative.
+“Advancing Supervised Learning with the Wave Loss Function: A Robust and Smooth Approach.”
+<span class="venue">Pattern Recognition (Elsevier)</span>, 155, 2024.
+<span class="small">doi: <a href="https://doi.org/10.1016/j.patcog.2024.110637">10.1016/j.patcog.2024.110637</a>.</span>
+</li>
 
+<li>
+<span class="author-me">Mushir Akhtar</span>, M. Tanveer, and M. Arshad.
+“HawkEye: A Robust Loss Function for Regression with Bounded, Smooth, and Insensitive Zone Characteristics.”
+<span class="venue">Applied Soft Computing (Elsevier)</span>, 2025.
+<span class="small">doi: <a href="https://doi.org/10.1016/j.asoc.2025.113118">10.1016/j.asoc.2025.113118</a>.</span>
+</li>
 
+<li>
+<span class="author-me">Mushir Akhtar</span>, A. Kumari, M. Sajid, A. Quadir, M. Arshad, P. N. Suganthan, and M. Tanveer.
+“Towards Robust and Inversion-Free Randomized Neural Networks: The XG-RVFL Framework.”
+<span class="venue">Pattern Recognition (Elsevier)</span>, 2025.
+<span class="small">doi: <a href="https://doi.org/10.1016/j.patcog.2025.112711">10.1016/j.patcog.2025.112711</a>.</span>
+</li>
 
+<li>
+A. Kumari, <span class="author-me">Mushir Akhtar</span>, M. Tanveer, and M. Arshad.
+“Diagnosis of Breast Cancer Using Flexible Pinball Loss Support Vector Machine.”
+<span class="venue">Applied Soft Computing (Elsevier)</span>, 157, 2024.
+<span class="small">doi: <a href="https://doi.org/10.1016/j.asoc.2024.111454">10.1016/j.asoc.2024.111454</a>.</span>
+</li>
+
+<li>
+A. Kumari, <span class="author-me">Mushir Akhtar</span>, R. Shah, and M. Tanveer.
+“Support Matrix Machine: A Review.”
+<span class="venue">Neural Networks (Elsevier)</span>, 2024.
+<span class="small">doi: <a href="https://doi.org/10.1016/j.neunet.2024.106767">10.1016/j.neunet.2024.106767</a>.</span>
+</li>
+
+<li>
+A. Quadir, <span class="author-me">Mushir Akhtar</span>, and M. Tanveer.
+“Enhancing Multiview Synergy: Robust Learning by Exploiting the Wave Loss Function with Consensus and Complementarity Principles.”
+<span class="venue">Neural Networks (Elsevier)</span>, 2025.
+<span class="small">doi: <a href="https://doi.org/10.1016/j.neunet.2025.107433">10.1016/j.neunet.2025.107433</a>.</span>
+</li>
+
+<li>
+M. Tanveer, M. Sajid, <span class="author-me">Mushir Akhtar</span>, et al.
+“Fuzzy Deep Learning for the Diagnosis of Alzheimer’s Disease: Approaches and Challenges.”
+<span class="venue">IEEE Transactions on Fuzzy Systems</span>, 2024.
+<span class="small">doi: <a href="https://doi.org/10.1109/TFUZZ.2024.3409412">10.1109/TFUZZ.2024.3409412</a>.</span>
+</li>
+
+<li>
+M. Tanveer, A. Tiwari, <span class="author-me">Mushir Akhtar</span>, and C. T. Lin.
+“Enhancing Imbalance Learning: A Novel Slack-Factor Fuzzy SVM Approach.”
+<span class="venue">IEEE Transactions on Emerging Topics in Computational Intelligence</span>, 2024.
+<span class="small">doi: <a href="https://doi.org/10.1109/TETCI.2024.3524718">10.1109/TETCI.2024.3524718</a>.</span>
+</li>
+</ol>
+
+<h2>Conference Publications</h2>
+
+<ol class="pub-list" start="10">
+<li>
+<span class="author-me">Mushir Akhtar</span>, M. Tanveer, and M. Arshad.
+“CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks.”
+<span class="venue">International Conference on Artificial Intelligence and Statistics (AISTATS)</span>, 2026, Tangier, Morocco.
+</li>
+
+<li>
+<span class="author-me">Mushir Akhtar</span>, M. Tanveer, and M. Arshad.
+“GL-TSVM: A Robust and Smooth Twin Support Vector Machine with Guardian Loss Function.”
+<span class="venue">International Conference on Pattern Recognition (ICPR)</span>, 2024.
+</li>
+
+<li>
+<span class="author-me">Mushir Akhtar</span>, R. Mishra, M. Tanveer, and M. Arshad.
+“Advancing RVFL Networks: Robust Classification with the HawkEye Loss Function.”
+<span class="venue">International Conference on Neural Information Processing (ICONIP)</span>, 2024.
+</li>
+
+<li>
+R. Mishra, <span class="author-me">Mushir Akhtar</span>, and M. Tanveer.
+“CI-RKM: A Class-Informed Approach to Robust Restricted Kernel Machines.”
+<span class="venue">International Joint Conference on Neural Networks (IJCNN)</span>, 2025.
+</li>
+
+<li>
+M. Sajid, <span class="author-me">Mushir Akhtar</span>, A. Quadir, and M. Tanveer.
+“RVFL-X: A Novel Randomized Network Based on Complex Transformed Real-Valued Tabular Datasets.”
+<span class="venue">International Joint Conference on Neural Networks (IJCNN)</span>, 2025.
+</li>
+
+<li>
+A. Kumari, <span class="author-me">Mushir Akhtar</span>, M. Tanveer, and P. N. Suganthan.
+“R<sup>2</sup>VFL: A Robust Random Vector Functional Link Network with Huber-Weighted Framework.”
+<span class="venue">International Joint Conference on Neural Networks (IJCNN)</span>, 2025.
+</li>
+
+<li>
+A. Quadir, M. Sajid, <span class="author-me">Mushir Akhtar</span>, and M. Tanveer.
+“Twin Restricted Kernel Machines for Multiview Classification.”
+<span class="venue">International Joint Conference on Neural Networks (IJCNN)</span>, 2025.
+</li>
+
+<li>
+M. Sajid<sup>*</sup>, <span class="author-me">Mushir Akhtar</span><sup>*</sup>, M. Tanveer, and S. Mitra.
+“Fuzzy Learning at 60: Future of Trustworthy AI in Healthcare and LLM.”
+<span class="venue">IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</span>, 2025.
+<span class="small">(<sup>*</sup>Equal contribution.)</span>
+</li>
+</ol>
