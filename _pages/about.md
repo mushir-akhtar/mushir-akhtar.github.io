@@ -33,13 +33,13 @@ Indian Institute of Technology Indore, India
 
 - Robust Machine Learning  
 - Uncertainty-Aware Machine Learning  
-- Interpretable and Explainable AI  
+- Interpretable and Trusthworthy AI  
 - Statistical Machine Learning  
 - Probabilistic Neural Networks  
 - Loss Function Design and Robust Optimization  
 - Randomized Neural Networks and Kernel Methods  
 - Copula-Based Dependency Modeling  
-- Tabular Data Learning  
+- Tabular Machine Learning  
 - Biomedical and Clinical AI
 
 ---
