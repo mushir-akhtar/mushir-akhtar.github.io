@@ -11,7 +11,7 @@ author_profile: true
   *Awarded for outstanding research contribution and publication excellence at IIT Indore.*
 
 - **Gold Medal**, M.Sc. Mathematics, Chaudhary Charan Singh University, Meerut (2020)  
-  *Awarded for securing the highest academic rank across the university.*
+  *Awarded for achieving the highest academic distinction in the college.*
 
 - **CSIR–NET Junior Research Fellowship (JRF) in Mathematical Sciences** (2020)  
   *National-level fellowship awarded to top candidates in India for doctoral research in mathematics.*
