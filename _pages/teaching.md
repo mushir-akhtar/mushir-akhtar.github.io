@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching & Talks"
-permalink: /teaching/
+permalink: /teaching-talks/
 author_profile: true
 ---
 
