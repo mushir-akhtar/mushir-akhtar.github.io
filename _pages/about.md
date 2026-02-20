@@ -63,3 +63,13 @@ Department of Mathematics
 Indian Institute of Technology Indore  
 Khandwa Road, Simrol, Indore (M.P.) 453552  
 India  
+
+---
+
+## Visitors
+
+<div style="text-align:center; margin-top:10px;">
+<script type="text/javascript" id="mapmyvisitors"
+src="//mapmyvisitors.com/map.js?d=5f_QRCIUO5ypcd8YAd4VZIVVgSe7T-igLz56giifZKE&cl=ffffff&w=a">
+</script>
+</div>
