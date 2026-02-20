@@ -13,7 +13,7 @@ title                    : "Mushir Akhtar"
 title_separator          : "-"
 name                     : &name "Mushir Akhtar"
 description              : &description "PhD Candidate (Mathematics–Machine Learning), Indian Institute of Technology Indore"
-url                      : https://mushir-akhtar.github.io
+url                      : "https://mushir-akhtar.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mushir-akhtar/mushir-akhtar.github.io"
