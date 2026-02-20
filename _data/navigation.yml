@@ -10,19 +10,27 @@
 main:
   - title: "Home"
     url: /
+
   - title: "Publications"
     url: /publications/
+
   - title: "Research"
     url: /research/
+
   - title: "Awards & Honors"
     url: /awards/
-- title: "Professional Service"
-  url: /professional-service/
-- title: "Teaching & Talks"
-  url: /teaching-talks/
+
+  - title: "Professional Service"
+    url: /professional-service/
+
+  - title: "Teaching & Talks"
+    url: /teaching-talks/
+
   - title: "CV"
     url: /cv/
+
   - title: "Contact"
     url: /contact/
+
   - title: "News"
     url: /news/
