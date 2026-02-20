@@ -11,6 +11,18 @@ author_profile: true
     <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
   </div>
 {% endif %}
+<div style="margin-top:6px;">
+  <a href="{{ site.author.googlescholar }}">
+    <img alt="Citations" src="https://img.shields.io/badge/dynamic/json?label=Citations&query=$.citedby&url=https://api.scholarbadge.com/pNAMkP8AAAAJ&logo=googlescholar">
+  </a>
+  <a href="{{ site.author.googlescholar }}" style="margin-left:6px;">
+    <img alt="h-index" src="https://img.shields.io/badge/dynamic/json?label=h--index&query=$.hindex&url=https://api.scholarbadge.com/pNAMkP8AAAAJ&logo=googlescholar">
+  </a>
+  <a href="{{ site.author.googlescholar }}" style="margin-left:6px;">
+    <img alt="i10-index" src="https://img.shields.io/badge/dynamic/json?label=i10--index&query=$.i10index&url=https://api.scholarbadge.com/pNAMkP8AAAAJ&logo=googlescholar">
+  </a>
+</div>
+
 
 {% include base_path %}
 
