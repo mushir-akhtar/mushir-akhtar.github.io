@@ -45,6 +45,11 @@ India
 
 ---
 
+## Recent News
+
+- **Paper accepted at AISTATS 2026.**  
+  Mushir Akhtar, M. Tanveer, Mohd. Arshad. *“CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks”* accepted at the **29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026)**.
+
 ## Contact
 
 📧 phd2101241004@iiti.ac.in
