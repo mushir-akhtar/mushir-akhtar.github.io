@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mushir Akhtar"
-  bio              : "Mushir Akhtar is a Ph.D. scholar in Mathematics (Machine Learning) at IIT Indore, India. His research focuses on robust, interpretable, and uncertainty-aware machine learning, with emphasis on support vector machines, randomized and probabilistic neural networks, and advanced loss-function design. He also integrates copula-based dependency modeling to improve stability and generalization, particularly for biomedical applications. His work includes publications in leading journals such as IEEE TPAMI and papers accepted at top-tier conferences including AISTATS. "
+  bio              : "Mushir Akhtar is a Ph.D. scholar in Mathematics (Machine Learning) at IIT Indore, India. His research focuses on robust, interpretable, and uncertainty-aware machine learning for biomedical applications. His work includes publications in leading journals such as IEEE TPAMI and papers accepted at top-tier conferences including AISTATS."
   location         : "Indore, India"
   employer         : "Indian Institute of Technology Indore"
   email            : "mushirakhtar.ml@gmail.com"
