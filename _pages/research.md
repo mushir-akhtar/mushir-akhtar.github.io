@@ -38,15 +38,16 @@ Overall, my research vision is to bridge **statistical learning theory, probabil
 
 ## Methodological Contributions
 
-My work develops new learning frameworks and theoretical tools for improving stability, robustness, and generalization in machine learning systems. Key contributions include:
+My research develops new learning frameworks and theoretical tools to improve **stability, robustness, and generalization** in machine learning systems. Key methodological contributions include:
 
-- **Robust loss function design** for learning under noise, outliers, and imbalance  
-- **Stable randomized neural networks** via spectral control and structured initialization  
-- **Copula-based modeling** to capture feature dependencies in learning systems  
-- **Uncertainty-aware learning frameworks** for reliable prediction  
-- **Robust kernel and probabilistic neural models** for tabular data  
+- Robust loss function design for learning under noise, outliers, and class imbalance  
+- Adaptive and data-driven weighting mechanisms for imbalance- and difficulty-aware learning  
+- Stable randomized neural networks via spectral regulation and structured initialization  
+- Copula-based statistical modeling to capture feature dependencies in learning systems  
+- Uncertainty-aware learning frameworks for reliable and calibrated prediction  
+- Hierarchical probabilistic neural networks for robust and interpretable prediction  
 
-These contributions have been validated across diverse benchmark datasets and applied learning scenarios.
+These methodological advances have been validated across diverse benchmark datasets and biomedical learning scenarios, demonstrating consistent improvements in robustness, stability, and predictive reliability.
 
 ---
 
