@@ -64,15 +64,23 @@ Key application areas include:
 
 ---
 
-## Current and Future Research Directions
+## Future Research Vision
 
-My current research aims to advance **statistically grounded and trustworthy machine learning**, particularly through:
+State-of-the-art machine learning and deep learning models achieve strong predictive performance, yet most operate as **black-box predictors** that provide point estimates with limited interpretability and weakly characterized uncertainty. In high-stakes domains such as healthcare and biomedical decision-making, this lack of transparency and calibrated uncertainty significantly limits practitioner trust and real-world deployment.
 
-- Dependency-aware neural network initialization and learning  
-- Robust and uncertainty-aware randomized neural networks  
-- Copula-integrated machine learning models  
-- Reliable learning under distributional shift and data uncertainty  
+Existing research often addresses this limitation through *post-hoc* interpretability methods or auxiliary uncertainty modules layered onto complex models. While useful, these approaches typically introduce explanations or uncertainty estimates external to the core learning mechanism, leaving interpretability and uncertainty as secondary properties rather than intrinsic characteristics of the model.
 
-In future work, I aim to develop **interpretable and uncertainty-aware machine learning frameworks for biomedical and scientific applications**, bridging statistical modeling and modern neural learning paradigms.
+My research vision is to move beyond this paradigm by developing learning systems that are **probabilistic, interpretable, and uncertainty-aware *by design***. The foundational modeling framework for this direction is the **Probabilistic Neural Network (PNN)**, which provides a principled density-based and probabilistic learning formulation with inherent interpretability.
+
+My goal is to transform classical PNNs into a new generation of **robust, statistically aligned, and hierarchical probabilistic neural models** that integrate:
+
+- robustness to noise, outliers, and class imbalance  
+- statistically grounded dependency modeling (e.g., copula-based structure)  
+- hierarchical and probabilistic representations  
+- calibrated predictive uncertainty  
+- interpretable density-level decision mechanisms  
+
+Through this direction, I aim to unify **robust learning theory, probabilistic modeling, and neural architectures** within a single coherent framework. The long-term objective is to establish robust probabilistic neural learning systems that retain the transparency and uncertainty-awareness of classical statistical models while achieving the predictive power of modern machine learning—thereby enabling trustworthy deployment in biomedical and scientific applications.
+
 
 ---
