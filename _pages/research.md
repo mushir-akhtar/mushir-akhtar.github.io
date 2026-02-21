@@ -5,25 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Overview
+## Research Statement
 
-My research lies at the intersection of **statistical machine learning, robust learning theory, and neural network modeling**, with the goal of developing **reliable, interpretable, and uncertainty-aware learning frameworks** for real-world data.  
-
-I focus particularly on designing theoretically grounded machine learning methods that remain stable under **noise, outliers, class imbalance, and distributional shift**, and that provide trustworthy predictions in high-stakes domains such as biomedical and healthcare applications.
+My research lies at the intersection of **robust machine learning, uncertainty-aware modeling, and interpretable and trustworthy AI**. I develop theoretically grounded learning frameworks that remain reliable under **noise, outliers, class imbalance, and distributional shift**, with the overarching goal of enabling trustworthy machine learning in high-stakes clinical and biomedical settings.
+My early work focused on the design of **robust loss functions and adaptive weighting mechanisms** for support vector machines, randomized neural networks, and kernel-based learning models. In particular, I introduced principled strategies for jointly addressing noise, outliers, and class imbalance through bounded loss formulations and data-adaptive weighting schemes, enabling stable learning under imperfect real-world data conditions. These contributions established theoretically grounded frameworks for robust tabular learning and were validated across diverse benchmarks and biomedical prediction tasks, resulting in publications in leading venues such as **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, **Pattern Recognition**, and **Neural Networks**.
+I further investigated the statistical structure of feature dependencies in tabular data and proposed **copula-based weight initialization for randomized neural networks**, enabling dependency-aware hidden representations and improved generalization. This work addresses a long-standing limitation of randomized neural networks, i.e., the use of fully random, fixed input-to-hidden weights that ignore data distribution and feature relationships. By introducing statistically aligned, dependency-aware initialization, the proposed framework closes this foundational gap and transforms randomized neural networks from purely random feature models into data-informed learning systems. This work was accepted at the **International Conference on Artificial Intelligence and Statistics (AISTATS)**.
+Through this line of research, I identified a fundamental limitation of conventional learning systems: their reliance on deterministic point predictions with limited uncertainty characterization and weak density-level interpretability. Such models provide accurate predictions but lack calibrated uncertainty and probabilistic structure, which restricts their reliability and clinical trustworthiness in high-stakes biomedical decision-making.
+Motivated by this gap, my recent research has shifted toward **probabilistic and density-aware neural learning frameworks** that integrate statistical modeling with neural architectures to provide principled uncertainty quantification and interpretable predictive structure. In parallel, I investigate **statistical modeling of feature dependencies via copula theory** to capture structured relationships among biomedical variables and to enable dependency-aware probabilistic inference in machine learning systems.
+Overall, my research vision is to bridge **statistical learning theory, probabilistic modeling, and neural network methods** to develop machine learning frameworks that are **robust, interpretable, and uncertainty-aware *by design***—moving beyond point prediction toward trustworthy, distribution-aware learning systems suitable for deployment in biomedical and scientific domains.
 
 ---
 
 ## Core Research Themes
 
-- Robust Machine Learning  
+- Robust Machine Learning
+- Loss Function Design and Robust Optimization  
+- Randomized Neural Networks and Kernel Methods    
 - Uncertainty-Aware Learning  
 - Interpretable and Trustworthy AI  
 - Statistical Machine Learning  
-- Loss Function Design and Robust Optimization  
-- Randomized Neural Networks and Kernel Methods  
 - Copula-Based Dependency Modeling  
 - Probabilistic Neural Networks  
-- Tabular Data Learning  
+- Tabular Machine Learning  
 - Biomedical and Clinical AI  
 
 ---
