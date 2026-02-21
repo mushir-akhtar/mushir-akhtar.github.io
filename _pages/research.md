@@ -53,12 +53,14 @@ These methodological advances have been validated across diverse benchmark datas
 
 ## Application Focus
 
-I apply my methodological developments primarily to structured and tabular data settings, with emphasis on:
+My methodological research is motivated by high-stakes real-world domains where learning systems must operate reliably under uncertainty and imperfect data. I focus particularly on **tabular biomedical and clinical data**, where noise, missingness, class imbalance, and complex feature dependencies pose major challenges for conventional machine learning models.
+
+Key application areas include:
 
 - Biomedical and healthcare data analysis  
 - Disease diagnosis and prognosis modeling  
 - Clinical decision-support systems  
-- Scientific and engineering data modeling  
+- Dependency-aware modeling of biomedical variables   
 
 ---
 
