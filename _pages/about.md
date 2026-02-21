@@ -31,16 +31,16 @@ Indian Institute of Technology Indore, India
 
 ## Research Interests
 
-- Robust Machine Learning  
-- Uncertainty-Aware Machine Learning  
-- Interpretable and Trusthworthy AI  
-- Statistical Machine Learning  
-- Probabilistic Neural Networks  
+- Robust Machine Learning
 - Loss Function Design and Robust Optimization  
-- Randomized Neural Networks and Kernel Methods  
+- Randomized Neural Networks and Kernel Methods    
+- Uncertainty-Aware Learning  
+- Interpretable and Trustworthy AI  
+- Statistical Machine Learning  
 - Copula-Based Dependency Modeling  
+- Probabilistic Neural Networks  
 - Tabular Machine Learning  
-- Biomedical and Clinical AI
+- Biomedical and Clinical AI  
 
 ---
 
