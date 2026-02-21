@@ -12,30 +12,17 @@ OUT_DIR = Path("assets/scholar_badges")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 def make_badge_json(label: str, message: str):
-    # Shields endpoint schema (minimal)
-    return {
-        "schemaVersion": 1,
-        "label": label,
-        "message": message,
-        "color": "blue"
-    }
+    return {"schemaVersion": 1, "label": label, "message": message, "color": "blue"}
 
 def extract_metrics(html: str):
     soup = BeautifulSoup(html, "html.parser")
 
-    # Metrics are in a table (usually class gsc_rsb_st)
-    table = soup.find("table", {"id": "gsc_rsb_st"})
-    if table is None:
-        table = soup.find("table", class_="gsc_rsb_st")
-
+    table = soup.find("table", {"id": "gsc_rsb_st"}) or soup.find("table", class_="gsc_rsb_st")
     if table is None:
         raise RuntimeError("Could not find metrics table on Google Scholar page.")
 
     rows = table.find_all("tr")
     metrics = {}
-
-    # Expected first column names: Citations, h-index, i10-index
-    # Second column is "All"
     for r in rows:
         cols = r.find_all(["td", "th"])
         if len(cols) >= 2:
@@ -44,7 +31,6 @@ def extract_metrics(html: str):
             val = re.sub(r"[^\d]", "", val) or val
             metrics[key] = val
 
-    # Normalize keys
     citations = metrics.get("citations")
     hindex = metrics.get("h-index") or metrics.get("h index")
     i10 = metrics.get("i10-index") or metrics.get("i10 index")
@@ -63,15 +49,9 @@ def main():
 
     citations, hindex, i10 = extract_metrics(r.text)
 
-    (OUT_DIR / "citations.json").write_text(
-        json.dumps(make_badge_json("Citations", citations)), encoding="utf-8"
-    )
-    (OUT_DIR / "hindex.json").write_text(
-        json.dumps(make_badge_json("h-index", hindex)), encoding="utf-8"
-    )
-    (OUT_DIR / "i10index.json").write_text(
-        json.dumps(make_badge_json("i10-index", i10)), encoding="utf-8"
-    )
+    (OUT_DIR / "citations.json").write_text(json.dumps(make_badge_json("Citations", citations)), encoding="utf-8")
+    (OUT_DIR / "hindex.json").write_text(json.dumps(make_badge_json("h-index", hindex)), encoding="utf-8")
+    (OUT_DIR / "i10index.json").write_text(json.dumps(make_badge_json("i10-index", i10)), encoding="utf-8")
 
     print("Saved:", citations, hindex, i10)
 
