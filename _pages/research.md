@@ -30,8 +30,7 @@ Overall, my research vision is to bridge **statistical learning theory, probabil
 - Dependency Modeling   
 - Copula Theory 
 - Uncertainty-Aware Learning  
-- Probabilistic Neural Networks
-- Interpretable and Trustworthy AI  
+- Probabilistic Neural Networks  
 - Interpretable and Trustworthy AI
 - Uncertainty-Aware Learning  
 - Biomedical and Clinical AI  
