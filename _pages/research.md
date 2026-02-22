@@ -23,16 +23,19 @@ Overall, my research vision is to bridge **statistical learning theory, probabil
 
 ## Core Research Themes
 
-- Robust Machine Learning
-- Loss Function Design and Robust Optimization  
-- Randomized Neural Networks and Kernel Methods    
+- Kernel Methods
+- Loss Function and Optimization  
+- Randomized Neural Networks
+- Statistical Machine Learning 
+- Dependency Modeling   
+- Copula Theory 
 - Uncertainty-Aware Learning  
+- Probabilistic Neural Networks
 - Interpretable and Trustworthy AI  
-- Statistical Machine Learning  
-- Copula-Based Dependency Modeling  
-- Probabilistic Neural Networks  
-- Tabular Machine Learning  
+- Interpretable and Trustworthy AI
+- Uncertainty-Aware Learning  
 - Biomedical and Clinical AI  
+
 
 ---
 
