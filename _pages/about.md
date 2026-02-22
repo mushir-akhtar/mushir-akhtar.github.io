@@ -40,7 +40,6 @@ Indian Institute of Technology Indore, India
 - Uncertainty-Aware Learning  
 - Probabilistic Neural Networks
 - Interpretable and Trustworthy AI  
-- Interpretable and Trustworthy AI
 - Uncertainty-Aware Learning  
 - Biomedical and Clinical AI  
 
