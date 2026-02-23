@@ -36,8 +36,7 @@ Indian Institute of Technology Indore, India
 - Randomized Neural Networks
 - Statistical Machine Learning 
 - Dependency Modeling   
-- Copula Theory 
-- Uncertainty-Aware Learning  
+- Copula Theory  
 - Probabilistic Neural Networks
 - Interpretable and Trustworthy AI  
 - Uncertainty-Aware Learning  
