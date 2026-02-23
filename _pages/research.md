@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+---
 ## Research Statement
 
 My research lies at the intersection of **robust machine learning, uncertainty-aware modeling, and interpretable and trustworthy AI**. I develop theoretically grounded learning frameworks that remain reliable under **noise, outliers, class imbalance, and distributional shift**, with the overarching goal of enabling trustworthy machine learning in high-stakes clinical and biomedical settings.
@@ -81,7 +82,7 @@ My goal is to transform classical PNNs into a new generation of **robust, statis
 - calibrated predictive uncertainty  
 - interpretable density-level decision mechanisms  
 
-Through this direction, I aim to unify **robust learning theory, probabilistic modeling, and neural architectures** within a single coherent framework. The long-term objective is to establish robust probabilistic neural learning systems that retain the transparency and uncertainty-awareness of classical statistical models while achieving the predictive power of modern machine learning—thereby enabling trustworthy deployment in biomedical and scientific applications.
+Through this direction, I aim to unify **robust learning theory, probabilistic modeling, and neural architectures** within a single coherent framework. The long-term objective is to establish robust probabilistic neural learning systems that retain the transparency and uncertainty-awareness of classical statistical models while achieving the predictive power of modern machine learning, thereby enabling trustworthy deployment in biomedical and scientific applications.
 
 
 ---
