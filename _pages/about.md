@@ -6,6 +6,7 @@ permalink: /
 classes: wide
 ---
 
+---
 ## Biography
 
 Mushir Akhtar is a Ph.D. scholar in the Department of Mathematics at the Indian Institute of Technology (IIT) Indore, India, under the supervision of [Prof. M. Tanveer](https://mtanveer.profiles.iiti.ac.in/) and [Dr. Mohd. Arshad](https://people.iiti.ac.in/~arshad/index.html). He received his B.Sc. and M.Sc. degrees in Mathematics from Chaudhary Charan Singh University, Meerut, India, in 2018 and 2020, respectively, and was awarded the Gold Medal for securing the highest rank in M.Sc. Mathematics.
