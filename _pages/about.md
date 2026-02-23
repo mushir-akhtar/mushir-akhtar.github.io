@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: "Home"
 permalink: /
+classes: wide
 ---
 
 ## Biography
