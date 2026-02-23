@@ -5,6 +5,7 @@ permalink: /professional-service/
 author_profile: true
 ---
 
+---
 ## Academic Leadership & Service
 
 - **Vice-Chair**, IEEE Computational Intelligence Society (CIS) Student Branch Chapter, IIT Indore  
