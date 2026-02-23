@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+---
 ## Awards & Honors
 
 - **Institute Best Research Paper Award**, Indian Institute of Technology Indore (2025)  
