@@ -12,6 +12,7 @@ author_profile: true
 Five papers have been accepted at the **IEEE World Congress on Computational Intelligence (WCCI 2026)**:
 
 * Mushir Akhtar, M. Tanveer, and M. Arshad.
+  
   *“Residual-Guided Randomized Neural Networks.”*
 
 * Mushir Akhtar, A. Varshney, A. Quadir, A. Rahaman, M. Arshad, and M. Tanveer.
