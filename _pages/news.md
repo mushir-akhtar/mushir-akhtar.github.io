@@ -17,8 +17,8 @@ Five papers have been accepted at the **IEEE World Congress on Computational Int
 * Mushir Akhtar, A. Varshney, A. Quadir, A. Rahaman, M. Arshad, and M. Tanveer.
   *“Robust Broad Learning System with Wave Loss for Classification under Data Uncertainty.”*
 
-* A. Varshney<sup>*</sup>, Mushir Akhtar<sup>*</sup>, M. Arshad, and M. Tanveer.  
-*“Metric-Enhanced Hybrid Kernel Probabilistic Neural Networks for Robust Classification.”* (<sup>*</sup>Equal contribution)  
+* A. Varshney<sup>\*</sup>, Mushir Akhtar<sup>\*</sup>, M. Arshad, and M. Tanveer.  
+*“Metric-Enhanced Hybrid Kernel Probabilistic Neural Networks for Robust Classification.”* (<sup>\*</sup>Equal contribution) 
 
 * A. Quadir, A. Rahaman, Mushir Akhtar, and M. Tanveer.
   *“Robust Dual-Model Collaborative Random Vector Functional Link Network.”*
