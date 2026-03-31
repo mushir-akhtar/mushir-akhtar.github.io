@@ -15,8 +15,7 @@ author_profile: true
 
 ## Postal Address
 
-**Mr. Mushir Akhtar**  
-Ph.D. Candidate  
+**Mr. Mushir Akhtar** 
 OPTIMAL Research Lab, POD 1A – 203  
 Department of Mathematics  
 Indian Institute of Technology Indore  
