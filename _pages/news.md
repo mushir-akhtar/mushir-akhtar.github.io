@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2026
 
+**Paper accepted in Pattern Recognition, Elsevier.**
+  Mushir Akhtar, M. Tanveer, Mohd. Arshad. *“RoBoTS: A Robust Bounded Twin SVM Based on RoBoSS Loss Function.”*
+
 **Five Papers Accepted at WCCI 2026**
 
 Five papers have been accepted at the **IEEE World Congress on Computational Intelligence (WCCI 2026)**:
