@@ -21,8 +21,7 @@ Beyond research, he actively contributes to the academic community through revie
 ---
 
 ## Affiliation
-
-**Ph.D. Candidate**  
+  
 [OPTIMAL Research Lab](https://mtanveer.profiles.iiti.ac.in/) (led by Prof. M. Tanveer)<br>
 Statistics and Data Science Research Lab (led by Dr. Mohd. Arshad)<br>
 Department of Mathematics<br>
@@ -64,7 +63,6 @@ Indian Institute of Technology Indore, India
 
 **Postal Address**  
 Mr. Mushir Akhtar  
-Ph.D. Candidate  
 OPTIMAL Research Lab, POD 1A – 203  
 Department of Mathematics  
 Indian Institute of Technology Indore  
