@@ -47,12 +47,15 @@ Indian Institute of Technology Indore, India
 
 ## Recent News
 
-- **Paper accepted in Pattern Recognition, Elsevier.**
+- <span style="color:#1f77b4;"><strong>[April 2026]</strong></span> **Paper accepted in Neural Networks, Elsevier.**  
+  Mushir Akhtar, A. Quadir, M. Tanveer, Mohd. Arshad. *“Dual-Center RAPID-LSSVM: Radius-Adaptive, Probability and Imbalance Driven Weighting for Alzheimer’s Diagnosis.”*
+
+- <span style="color:#1f77b4;"><strong>[March 2026]</strong></span> **Paper accepted in Pattern Recognition, Elsevier.**  
   Mushir Akhtar, M. Tanveer, Mohd. Arshad. *“RoBoTS: A Robust Bounded Twin SVM Based on RoBoSS Loss Function.”*
 
-- **Five papers accepted at IEEE World Congress on Computational Intelligence (WCCI) 2026.**   
+- <span style="color:#1f77b4;"><strong>[March 2026]</strong></span> **Five papers accepted at the IEEE World Congress on Computational Intelligence (WCCI 2026).**
 
-- **Paper accepted at AISTATS 2026.**
+- <span style="color:#1f77b4;"><strong>[January 2026]</strong></span> **Paper accepted at AISTATS 2026.**  
   Mushir Akhtar, M. Tanveer, Mohd. Arshad. *“CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks”* accepted at the **29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026)**.
 
 ## Contact
