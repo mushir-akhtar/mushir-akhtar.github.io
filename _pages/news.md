@@ -7,6 +7,13 @@ author_profile: true
 
 ## 2026
 
+<span style="color:#1f77b4;"><strong>[May 2026]</strong></span>
+**Paper accepted in IEEE Transactions on Fuzzy Systems.**
+K. Ali, Mushir Akhtar, A. Zafar, M. Tanveer.
+*“Intuitionistic Fuzzy and Robust Loss Fused Framework for Stable and Efficient RVFL Learning.”*
+
+<br>
+
 <span style="color:#1f77b4;"><strong>[April 2026]</strong></span>  
 **Paper accepted in Neural Networks, Elsevier.**  
 Mushir Akhtar, A. Quadir, M. Tanveer, Mohd. Arshad.  
