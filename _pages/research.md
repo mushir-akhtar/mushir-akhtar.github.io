@@ -24,16 +24,17 @@ Overall, my research vision is to bridge **statistical learning theory, probabil
 
 ## Core Research Themes
 
+- Statistical Machine Learning
+
+- Tabular Machine Learning
+
 - Kernel Methods
-- Loss Function and Optimization  
-- Randomized Neural Networks
-- Statistical Machine Learning 
-- Dependency Modeling   
-- Copula Theory   
-- Probabilistic Neural Networks  
-- Interpretable and Trustworthy AI
-- Uncertainty-Aware Learning  
-- Biomedical and Clinical AI  
+
+- Loss Functions and Optimization
+
+- Random-Feature Neural Networks
+
+- Trustworthy and Uncertainty-Aware AI  
 
 
 ---
