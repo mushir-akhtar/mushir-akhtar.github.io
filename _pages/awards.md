@@ -12,7 +12,7 @@ author_profile: true
   *Awarded by the Anusandhan National Research Foundation (ANRF) for presenting research at the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026), Tangier, Morocco.*
 
 * **Institute Best Research Paper Award**, Indian Institute of Technology Indore (2025)
-  *Awarded for outstanding research contribution and publication excellence at IIT Indore.*
+  *Awarded for outstanding research contribution at IIT Indore.*
 
 * **Travel Grant Award**, Indian Institute of Technology Indore (2025)
   *Awarded for participation in the International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy.*
