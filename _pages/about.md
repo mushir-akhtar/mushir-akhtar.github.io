@@ -47,6 +47,9 @@ Indian Institute of Technology Indore, India
 
 ## Recent News
 
+- <span style="color:#1f77b4;"><strong>[May 2026]</strong></span> **Paper accepted in IEEE Transactions on Fuzzy Systems.**  
+  K. Ali, Mushir Akhtar, A. Zafar, M. Tanveer. *“Intuitionistic Fuzzy and Robust Loss Fused Framework for Stable and Efficient RVFL Learning.”*
+
 - <span style="color:#1f77b4;"><strong>[April 2026]</strong></span> **Paper accepted in Neural Networks, Elsevier.**  
   Mushir Akhtar, A. Quadir, M. Tanveer, Mohd. Arshad. *“Dual-Center RAPID-LSSVM: Radius-Adaptive, Probability and Imbalance Driven Weighting for Alzheimer’s Diagnosis.”*
 
